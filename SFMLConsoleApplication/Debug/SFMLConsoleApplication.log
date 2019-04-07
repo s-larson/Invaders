@@ -1,0 +1,17 @@
+﻿  BulletEntity.cpp
+  ConcreteGame.cpp
+c:\users\simonssd\desktop\ht18\programmeringsmetodik\uppgifter\invaderss\sfmlconsoleapplication\sfmlconsoleapplication\concretegame.cpp(20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\simonssd\desktop\ht18\programmeringsmetodik\uppgifter\invaderss\sfmlconsoleapplication\sfmlconsoleapplication\concretegame.cpp(105): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Entity.cpp
+  ExplosionEntity.cpp
+  Game.cpp
+  InvaderEntity.cpp
+  Main.cpp
+  ShipEntity.cpp
+  TextureResource.cpp
+  Generating Code...
+  SFMLConsoleApplication.vcxproj -> C:\Users\SimonSSD\Desktop\HT18\Programmeringsmetodik\Uppgifter\Invaderss\SFMLConsoleApplication\Debug\SFMLConsoleApplication.exe
